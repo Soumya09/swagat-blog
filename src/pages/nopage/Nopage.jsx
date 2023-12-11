@@ -1,5 +1,7 @@
 import React from "react";
 
-export default function Nopage() {
-  return <div>Nopage</div>;
+function NoPage() {
+  return <div>NoPage</div>;
 }
+
+export default NoPage;
